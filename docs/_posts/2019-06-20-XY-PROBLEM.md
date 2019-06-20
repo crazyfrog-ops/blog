@@ -1,4 +1,3 @@
-# X-Y PROBLEM
 
 > *今天在coolshell看到了[X-Y Problem](https://coolshell.cn/articles/10804.html)，挺有意思，记录一下。*
 >
