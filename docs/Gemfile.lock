@@ -242,7 +242,11 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  github-pages
+  github-pages (~> 168)
+  jekyll (~> 3.6.2)
+  jekyll-compose
+  jekyll-paginate
+  rake (~> 12.3.0)
 
 BUNDLED WITH
    1.17.1
