@@ -631,20 +631,20 @@ pace: false
 pace_theme: pace-theme-minimal
 
 # Canvas-nest
-canvas_nest: yes
+canvas_nest: true
 
 # three_waves
-three_waves: false
+three_waves: true
 
 # canvas_lines
-canvas_lines: false
+canvas_lines: true
 
 # canvas_sphere
-canvas_sphere: false
+canvas_sphere: true
 
 # Only fit scheme Pisces
 # Canvas-ribbon
-canvas_ribbon: false
+canvas_ribbon: true
 
 # Script Vendors.
 # Set a CDN address for the vendor you want to customize.
